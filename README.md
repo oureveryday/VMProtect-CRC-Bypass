@@ -1,3 +1,4 @@
+```
 LONG WINAPI VMPCRCExceptionHandler(EXCEPTION_POINTERS* ExceptionInfo)
 {
 
@@ -8,3 +9,4 @@ LONG WINAPI VMPCRCExceptionHandler(EXCEPTION_POINTERS* ExceptionInfo)
     }
     return EXCEPTION_CONTINUE_SEARCH;
 }
+```
